@@ -20,9 +20,9 @@ gato-schrodinger-matrix/
 ├── style.css
 ├── script.js
 ├── assets/
-│ ├── background.jpg
-│ ├── sound.mp3
-│ └── screenshot.png
+│   ├── background.jpg
+│   ├── sound.mp3
+│   └── screenshot.png
 └── README.md
 
 ### ⚙️ Funcionalidades
